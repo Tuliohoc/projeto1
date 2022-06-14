@@ -1,4 +1,6 @@
 olá meu nome é tulio
  git init
-git status
+git status 
+olá essa é minha nova linha de código 
+para a aula dev aprender
 
